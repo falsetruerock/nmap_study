@@ -1,4 +1,4 @@
-
+# nmap tag summary
 ## -s
 - -sS : TCP SYN  scan, 주로 http, ftp, ssh가 실행되고 있는지 확인
 - -sU : UDP scan, 주로 DNS, SNMP가 실행되고 있는지 확인
